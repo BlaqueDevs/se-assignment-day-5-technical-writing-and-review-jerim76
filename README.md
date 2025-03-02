@@ -35,5 +35,4 @@ Best practices include using clear and descriptive language, keeping headings co
 The introduction should include a brief description of the product, its main purpose, and key features. It should also provide any necessary context or background information.
 
  12. How can you succinctly convey the purpose and key features of a product?
-You can succinctly convey the purpose and key features by using clear and concise language, focusing on the most important aspects, and using bullet points or short paragraphs for readability.ssignment_repo_id=18479911&assignment_repo_type=AssignmentRepo)
- SE-DAY5-Technical-Writing
+You can succinctly convey the purpose and key features by using clear and concise language, focusing on the most important aspects, and using bullet points or short paragraphs for readability.
